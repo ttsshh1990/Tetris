@@ -22,6 +22,9 @@ public:
     
     bool remove;
     
+    
+    
+    
     void update(float dt);
 };
 
